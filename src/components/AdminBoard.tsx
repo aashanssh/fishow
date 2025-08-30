@@ -279,7 +279,7 @@ import { useNavigate } from 'react-router-dom';
 
 import Brand from './Brand';
 import UserMenu from './UserMenu';
-import DropdownMenu from './DropDownMenu';
+import DropdownMenu from './DropdownMenu';
 import NavButton from './NavButton';
 
 const AdminBoard: React.FC = () => {
